@@ -1,16 +1,16 @@
-# 🎯 Web Development Mini Projects
+#  Web Development Mini Projects
 
 This repository contains three frontend projects built as part of my assignment: a **Digital Portfolio**, an **Attractive Music Player**, and a **Simple Calculator**.
 Each project is fully responsive, beginner-friendly, and created using **HTML, CSS, and JavaScript**.
 ---
-## 📁 Projects Included
+##  Projects Included
 
-## 1️⃣ **🌐 Digital Portfolio**
+## 1️⃣ ** Digital Portfolio**
 
 A personal portfolio website showcasing my skills, projects, achievements, and contact information.
 Designed with a clean UI and smooth layout for a professional online presence.
 
-### 🔥 Features
+###  Features
 
 * Responsive layout
 * About, Skills, Projects, and Contact sections
@@ -31,7 +31,7 @@ Designed with a clean UI and smooth layout for a professional online presence.
 A stylish and interactive music player with playlist management and song upload features.
 Includes an animated rotating cover, custom playlists, search function, and audio controls.
 
-### 🔥 Features
+###  Features
 
 * Play, Pause, Next, Previous controls
 * Shuffle & Repeat
@@ -49,12 +49,12 @@ Includes an animated rotating cover, custom playlists, search function, and audi
 
 ---
 
-## 3️⃣ **🧮 Simple Calculator**
+## 3️⃣ ** Simple Calculator**
 
 A responsive calculator supporting basic arithmetic operations.
 Clean layout and easy-to-use interface.
 
-### 🔥 Features
+###  Features
 
 * Addition, Subtraction, Multiplication, Division
 * Clear & backspace functions
