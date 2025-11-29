@@ -1,7 +1,6 @@
 #  Web Development Mini Projects
 
 This repository contains three frontend projects built as part of my assignment: a **Digital Portfolio**, an **Attractive Music Player**, and a **Simple Calculator**.
-Each project is fully responsive, beginner-friendly, and created using **HTML, CSS, and JavaScript**.
 ---
 ##  Projects Included
 
